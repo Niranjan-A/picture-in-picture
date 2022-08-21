@@ -8,7 +8,6 @@
 
 html {
   font-size: 62.5%;
-  font-family: "Graduate", cursive;
 }
 
 body {
@@ -21,10 +20,11 @@ body {
 }
 
 .title {
-  width: 100%;
-  color: #f7f7f7;
   position: absolute;
   top: 30px;
+  width: 100%;
+  font-family: "Graduate", cursive;
+  color: #f7f7f7;
   font-size: 6.4rem;
   text-align: center;
 }
